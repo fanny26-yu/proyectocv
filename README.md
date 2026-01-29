@@ -1,14 +1,14 @@
 # 🎓 Portafolio - Estefania ROdirguez
 
-Proyecto final del módulo de Introducción al Desarrollo Web - Desafío Latam
+**Proyecto final del módulo de Introducción al Desarrollo Web - Desafío Latam**
 
 ## 📌 Descripción
 
-CV y Portafolio personal desarrollado con HTML5, CSS3 y Bootstrap.
+**CV y Portafolio personal desarrollado con HTML5, CSS3 y Bootstrap.**
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ **Tecnologías Utilizadas**
 
 - HTML5
 - CSS3
@@ -18,11 +18,11 @@ CV y Portafolio personal desarrollado con HTML5, CSS3 y Bootstrap.
 
 --
 
-## 📸 Proyectos Incluidos en el Portafolio
+## 📸 **Proyectos Incluidos en el Portafolio**
 
 1. **Iguana Page** - Maquetación con Flexbox
-2. ** Cuppon** - Uso de CSS avanzado y Bootstrap
-3. ** Maquetacion y Optimizacion** - Maquetacion utilizando Figma
+2. **Cuppon** - Uso de CSS avanzado y Bootstrap
+3. **Maquetacion y Optimizacion** - Maquetacion utilizando Figma
 
 ---
 
