@@ -1,16 +1,13 @@
 
 body {
   background-color: #292929;
-  
+   background-image: url(../img/adornos-boda-dibujados-mano.png);
+    background-repeat: no-repeat;
+  background-position: top;
+
+  min-height: 100vh
 }
 
 .navbar {
   background-color: transparent;
-}
-main {
-    background-image: url(../img/adornos-boda-dibujados-mano.png);
-    background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  min-height: 100vh
 }
