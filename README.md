@@ -1,6 +1,7 @@
 # 🎓 Portafolio - Estefania Rodriguez
 
 **Proyecto final del módulo de Introducción al Desarrollo Web - Desafío Latam**
+Revisa mi proyecto 👉 https://fanny26-yu.github.io/proyectocv/index.htm 
 
 ## 📌 Descripción
 
